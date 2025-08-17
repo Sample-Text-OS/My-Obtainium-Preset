@@ -5,7 +5,7 @@ IMPORTANT: This repository is meant to go with a tutorial which you can find [he
 
 <h1>How to use it.</h1>
 
-The preset is used in Obtainium, which you can download [here](https://obtainium.imranr.dev).
+The preset is used in Obtainium, which you can download [here](https://obtainium.imranr.dev), and also download my Obtainium preset, which is just in this repository.
 
 If you plug your Android device into your PC, you can copy Obtainium's APK file over to your device. Put it in a folder where it's easy to find (eg. Downloads).
 
