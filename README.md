@@ -11,4 +11,8 @@ If you plug your Android device into your PC, you can copy Obtainium's APK file 
 
 You can copy my Obtainium preset in the same way that you did for the APK file.
 
-Once you open Obtainium, go to the "Import/Export" tab, and click on "Obtainium import".
+Once you open Obtainium, go to the "Import/Export" tab, and click on "Obtainium import", then navigate to my Obtainium preset.
+
+My configuration will now be set inside Obtainium, and you can add/remove any apps you want.
+
+Wait for all the apps to finish downloading, and you will now have a suite of replacement applications!
