@@ -7,7 +7,7 @@ IMPORTANT: This repository is meant to go with a tutorial which you can find [he
 
 The preset is used in Obtainium, which you can download [here](https://obtainium.imranr.dev), and also download my Obtainium preset, which is just in this repository.
 
-If you plug your Android device into your PC, you can copy Obtainium's APK file over to your device. Put it in a folder where it's easy to find (eg. Downloads).
+If you plug your Android device into your PC, you can copy Obtainium's APK file over to your device. Put it in a folder where it's easy to find (eg. Downloads). NOTE: If you're unable to access your phone's storage, you may need to change to the file transfer setting in "USB Preferences".
 
 You can copy my Obtainium preset in the same way that you did for the APK file.
 
