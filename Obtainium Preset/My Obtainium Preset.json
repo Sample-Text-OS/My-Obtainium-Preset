@@ -296,6 +296,7 @@
             "F-Droid third-party repo",
             "vivo App Store (CN)"
         ],
+        "parallelDownloads": true,
         "exportDir": "content://com.android.providers.downloads.documents/tree/downloads"
     }
 }
