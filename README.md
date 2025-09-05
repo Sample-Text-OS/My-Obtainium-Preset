@@ -1,7 +1,7 @@
 # Obtainium Preset
 This is a preset for Obtainium that contains a list of open-source applications that are alternatives to Google counterparts.
 
-IMPORTANT: This repository is meant to go with a tutorial which you can find [here](). [The link is not functional yet.]
+IMPORTANT: This repository is meant to go with a tutorial which you can find [here](https://youtu.be/3UOqvQkXr0k).
 
 <h1>How to use it.</h1>
 
